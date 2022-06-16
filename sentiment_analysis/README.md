@@ -22,6 +22,6 @@ based on selected stopwords, we tried to increase the accuracy of our model.
 
 ## Parameter Tuning for Pegasos Algorithm
 
-![App Screenshot](https://raw.githubusercontent.com/AbhinavGavireddi/Machine-Learning-projects/main/sentiment_analysis/Parameter%20tuning%20results/Figure%202022-06-15%20231825%20(2).png?token=GHSAT0AAAAAABVU4TFVFRB62BQ7MPJA3Y72YVKFISA)
+![App Screenshot](https://raw.githubusercontent.com/AbhinavGavireddi/Machine-Learning-projects/main/sentiment_analysis/Parameter%20tuning%20results/Pegasos%20Vs%20L.png?token=GHSAT0AAAAAABVU4TFVAM4M5MD3F3ZAG6N2YVK43ZA)
 
-![App Screenshot](https://raw.githubusercontent.com/AbhinavGavireddi/Machine-Learning-projects/main/sentiment_analysis/Parameter%20tuning%20results/Figure%202022-06-15%20231825%20(3).png?token=GHSAT0AAAAAABVU4TFU24N4FQRTBZAWP7JWYVKFKDA)
+![App Screenshot](https://raw.githubusercontent.com/AbhinavGavireddi/Machine-Learning-projects/main/sentiment_analysis/Parameter%20tuning%20results/Pegasos%20Vs%20T.png?token=GHSAT0AAAAAABVU4TFVCYA6HNRWDF5I6CQ2YVK45AA)
